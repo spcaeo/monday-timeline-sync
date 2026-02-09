@@ -317,4 +317,4 @@ This project is built and maintained by [GrowSherpa](https://www.growsherpa.ca) 
 - Monday.com consulting and training
 - Data migration to Monday.com
 
-**[Get in touch](https://www.growsherpa.ca)** | **[hello@growsherpa.ca](mailto:hello@growsherpa.ca)**
+**[Get in touch](https://www.growsherpa.ca)** | **[sales@growsherpa.ca](mailto:sales@growsherpa.ca)**

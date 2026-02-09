@@ -243,7 +243,7 @@ We help businesses automate their Monday.com workflows, build custom integration
 - Workflow automation setup
 - Monday.com consulting & training
 
-[Visit GrowSherpa](https://www.growsherpa.ca) | [hello@growsherpa.ca](mailto:hello@growsherpa.ca)
+[Visit GrowSherpa](https://www.growsherpa.ca) | [sales@growsherpa.ca](mailto:sales@growsherpa.ca)
 
 ---
 

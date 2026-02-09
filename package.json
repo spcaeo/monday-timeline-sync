@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Monday.com Timeline Column Sync - Automatically synchronize timeline columns across linked boards",
-  "author": "GrowSherpa <hello@growsherpa.ca> (https://www.growsherpa.ca)",
+  "author": "GrowSherpa <sales@growsherpa.ca> (https://www.growsherpa.ca)",
   "license": "MIT",
-  "homepage": "https://github.com/AiGrowSherpa/monday-timeline-sync",
+  "homepage": "https://github.com/spcaeo/monday-timeline-sync",
   "keywords": [
     "monday.com",
     "timeline",
