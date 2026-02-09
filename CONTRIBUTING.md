@@ -60,4 +60,4 @@ Thank you for your interest in contributing! This guide will help you get starte
 
 ## Questions?
 
-Open an issue on GitHub or reach out to [sales@growsherpa.ca](mailto:sales@growsherpa.ca).
+Open an issue on GitHub or reach out to [sales@taskrhino.ca](mailto:sales@taskrhino.ca).

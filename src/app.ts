@@ -57,8 +57,8 @@ a{color:#0073ea}.footer{margin-top:40px;padding-top:20px;border-top:1px solid #e
 </ul>
 
 <div class="footer">
-Built by <a href="https://www.growsherpa.ca">GrowSherpa</a> |
-<a href="https://github.com/AiGrowSherpa/monday-timeline-sync">GitHub</a>
+Built by <a href="https://www.taskrhino.ca">TaskRhino</a> |
+<a href="https://github.com/spcaeo/monday-timeline-sync">GitHub</a>
 </div>
 </body></html>`);
   });

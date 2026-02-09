@@ -306,9 +306,9 @@ Both solve the same problem. The marketplace app is a managed service (you pay, 
 
 ---
 
-## About GrowSherpa
+## About TaskRhino
 
-This project is built and maintained by [GrowSherpa](https://www.growsherpa.ca) — we help businesses automate their Monday.com workflows, build custom integrations, and streamline operations.
+This project is built and maintained by [TaskRhino](https://www.taskrhino.ca) — we help businesses automate their Monday.com workflows, build custom integrations, and streamline operations.
 
 **Services we offer:**
 - Custom Monday.com app development
@@ -317,4 +317,4 @@ This project is built and maintained by [GrowSherpa](https://www.growsherpa.ca) 
 - Monday.com consulting and training
 - Data migration to Monday.com
 
-**[Get in touch](https://www.growsherpa.ca)** | **[sales@growsherpa.ca](mailto:sales@growsherpa.ca)**
+**[Get in touch](https://www.taskrhino.ca)** | **[sales@taskrhino.ca](mailto:sales@taskrhino.ca)**

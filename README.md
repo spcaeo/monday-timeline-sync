@@ -233,7 +233,7 @@ MIT License -- see [LICENSE](LICENSE) for details.
 
 ---
 
-### Built with care by [GrowSherpa](https://www.growsherpa.ca)
+### Built with care by [TaskRhino](https://www.taskrhino.ca)
 
 We help businesses automate their Monday.com workflows, build custom integrations, and streamline operations.
 
@@ -243,7 +243,7 @@ We help businesses automate their Monday.com workflows, build custom integration
 - Workflow automation setup
 - Monday.com consulting & training
 
-[Visit GrowSherpa](https://www.growsherpa.ca) | [sales@growsherpa.ca](mailto:sales@growsherpa.ca)
+[Visit TaskRhino](https://www.taskrhino.ca) | [sales@taskrhino.ca](mailto:sales@taskrhino.ca)
 
 ---
 

@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Monday.com Timeline Column Sync - Automatically synchronize timeline columns across linked boards",
-  "author": "GrowSherpa <sales@growsherpa.ca> (https://www.growsherpa.ca)",
+  "author": "TaskRhino <sales@taskrhino.ca> (https://www.taskrhino.ca)",
   "license": "MIT",
   "homepage": "https://github.com/spcaeo/monday-timeline-sync",
   "keywords": [
