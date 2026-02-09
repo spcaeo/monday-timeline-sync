@@ -1,0 +1,21 @@
+name = "monday-timeline-sync"
+main = "src/worker.ts"
+compatibility_date = "2024-10-18"
+
+# KV Namespace for storing OAuth tokens and sync state
+# Create with: wrangler kv namespace create "KV"
+# Then replace the id below with the actual ID
+[[kv_namespaces]]
+binding = "KV"
+id = "YOUR_KV_NAMESPACE_ID"
+preview_id = "YOUR_KV_PREVIEW_NAMESPACE_ID"
+
+[vars]
+APP_URL = "https://your-app-url.example.com"
+SYNC_MODE = "bidirectional"
+
+# Secrets (set via `wrangler secret put <NAME>`):
+# MONDAY_CLIENT_ID - OAuth client ID from monday.com app
+# MONDAY_CLIENT_SECRET - OAuth client secret from monday.com app
+# MONDAY_SIGNING_SECRET - Webhook signing secret from monday.com app
+# MONDAY_API_TOKEN - API token for monday.com (optional, for non-OAuth usage)

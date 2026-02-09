@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: monday-timeline-sync
+    runtime: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: node dist/server.js
+    envVars:
+      - key: MONDAY_CLIENT_ID
+        sync: false
+      - key: MONDAY_CLIENT_SECRET
+        sync: false
+      - key: MONDAY_SIGNING_SECRET
+        sync: false
+      - key: MONDAY_API_TOKEN
+        sync: false
+      - key: APP_URL
+        sync: false
+      - key: PORT
+        value: 3000
+      - key: SYNC_MODE
+        value: bidirectional

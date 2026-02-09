@@ -1,0 +1,38 @@
+{
+  "name": "monday-timeline-sync",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Monday.com Timeline Column Sync - Automatically synchronize timeline columns across linked boards",
+  "author": "GrowSherpa <hello@growsherpa.ca> (https://www.growsherpa.ca)",
+  "license": "MIT",
+  "homepage": "https://github.com/AiGrowSherpa/monday-timeline-sync",
+  "keywords": [
+    "monday.com",
+    "timeline",
+    "sync",
+    "automation",
+    "cloudflare-workers",
+    "open-source",
+    "render"
+  ],
+  "scripts": {
+    "dev": "tsx src/server.ts",
+    "dev:cf": "wrangler dev",
+    "build": "tsc",
+    "deploy:cf": "wrangler deploy",
+    "start": "node dist/server.js",
+    "tunnel": "npx @mondaydotcomorg/tunnel --port 3000"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.0",
+    "dotenv": "^17.2.4",
+    "hono": "^4.6.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241018.0",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "wrangler": "^3.80.0"
+  }
+}
