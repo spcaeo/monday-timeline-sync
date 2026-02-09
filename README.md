@@ -11,9 +11,13 @@ No more manual copy-paste. No paid marketplace apps. Deploy in 5 minutes.
 
 ## See It In Action
 
-![Board with synced timeline](docs/screenshot-board-sync.png)
+![Board with synced timeline](docs/screenshot-board-sync-real.png)
 
-*Real Monday.com board data — Start Date + End Date automatically synced with Timeline column.*
+*Real Monday.com board — Start Date + End Date columns automatically synced with the Timeline column.*
+
+![Date picker with timeline sync](docs/screenshot-date-picker.png)
+
+*Change a date and the timeline updates instantly. Change the timeline and dates update back.*
 
 ---
 
